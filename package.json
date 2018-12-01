@@ -1,0 +1,25 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "cypress",
+    "cypress.io",
+    "automation",
+    "AT"
+  ],
+  "author": "cmtp",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.1.1"
+  }
+}
